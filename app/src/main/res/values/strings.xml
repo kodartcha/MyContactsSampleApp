@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Contacts</string>
+    <string name="title_activity_contacts">My Contacts</string>
+    <string name="title_activity_contact_detail">Contact Details </string>
+
+    <string name="la_loading_contacts_first">Loading contacts for the first time…</string>
+    <string name="la_loading_contacts">Loading contacts…</string>
+
+    <string name="shared_preferences">my_contacts_shared_preferences</string>
+
+    <string name="sp_download_state">download_state</string>
+
+    <string name="cm_empty_contacts">Empty Rick and Morty list returned!</string>
+
+    <string name="list_cd_mask">Avatar Mask</string>
+    <string name="list_cd_avatar">Avatar Image</string>
+
+    <string name="contact_id">contact_id</string>
+
+    <string name="detail_phone_header">PHONE NUMBER</string>
+    <string name="detail_phone_unknown">Unknown</string>
+
+    <string name="error_dialog_title">Error!</string>
+    <string name="error_dialog_message">The contacts download process has failed!</string>
+    <string name="error_dialog_btn_retry">Try again</string>
+    <string name="error_dialog_btn_exit">Exit</string>
+</resources>
